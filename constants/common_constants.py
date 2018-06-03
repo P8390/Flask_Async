@@ -1,0 +1,5 @@
+WORKER_CONFIG_MODULE = "config"
+DEFAULT_LOGGER_NAME = "Flask_Async"
+FROM_ADDR = "pankaj@gmail.com"
+CC = "Test@gmail.com"
+SUBJECT = "Registration"
